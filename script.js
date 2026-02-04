@@ -18,6 +18,6 @@ if (form && result) {
 
     result.textContent = "";
     form.reset();
-    window.location.href = "gracias.html";
+    window.location.href = "enlace-whatsapp.html";
   });
 }
